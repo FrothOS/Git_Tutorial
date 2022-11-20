@@ -1,0 +1,11 @@
+# Ignoring specific file
+readme.txt
+
+# Ignoring files with a specific extension
+# *txt
+
+# Ignoring all untracked file
+# *
+
+# Ignore all files
+# /<File-Name>
